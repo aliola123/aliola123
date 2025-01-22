@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, coding instructor, and
 
 ## Current Projects
 
-- **LEARN (National Open University of Nigeria)**: A web app to assist students with quizzes, live sessions, and a wallet for in-app purchases.
+- **LEARN (Learning and Education Assistance Resource Network for students of the National Open University of Nigeria)**: A web app to assist students with quizzes, live sessions, and a wallet for in-app purchases.
 - **E-Commerce Auto Parts Store**: A dynamic e-commerce site with a two-tier architecture.
 - **ChefDomain**: A dynamic e-commerce site with a two-tier architecture mainly for foods and drink purchase 
 - **Everbond Wears**: A small business venture in the underwear market.
