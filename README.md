@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I'm a full-stack developer, coding instructor, and
 
 ---
 
-🔭 I’m currently seeking out job opporunities to my knowledge and building out new projects. Feel free to browse my repositories or reach out to me! 😄
+🔭 I’m currently seeking out job opportunities to my knowledge and building out new projects. Feel free to browse my repositories or reach out to me! 😄
 
 
